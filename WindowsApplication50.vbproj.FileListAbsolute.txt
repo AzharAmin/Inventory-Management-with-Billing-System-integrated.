@@ -1,0 +1,11 @@
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\bin\Debug\WindowsApplication50.exe
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\bin\Debug\WindowsApplication50.pdb
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\bin\Debug\WindowsApplication50.xml
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.Form1.resources
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.Form2.resources
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.Resources.resources
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.vbproj.GenerateResource.Cache
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.exe
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.xml
+C:\Users\Azhar\Documents\Visual Studio 2008\Projects\WindowsApplication50\WindowsApplication50\obj\Debug\WindowsApplication50.pdb
